@@ -1,29 +1,8 @@
-new request recieved
-new request recieved
-new request recieved
-new request recieved
-new request recieved
-new request recieved
-new request recieved
-new request recieved
-new request recieved
-new request recieved
-new request recieved
-new request recieved
-new request recieved
-new request recieved
-new request recieved
-new request recieved
-new request recieved
-new request recieved
-new request recieved
-new request recieved
-new request recieved
-new request recieved
-new request recieved
-new request recieved
-new request recieved
-new request recieved
-/:new request recieved
-/favicon.ico:new request recieved
-/about:new request recieved
+/contact-us new request recieved
+/favicon.ico new request recieved
+/ new request recieved
+/favicon.ico new request recieved
+/about new request recieved
+/favicon.ico new request recieved
+/about-ali new request recieved
+/favicon.ico new request recieved
