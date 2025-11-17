@@ -1,0 +1,18 @@
+Rest Api    json format 
+
+
+get  /Api/users     listen all users
+
+get/Api/users/1    get user with id 1  
+
+get/Api/users/:id   that :id means variable / dynamic numder e.g 1,2,3 ...
+
+
+get/Api/users/2    get user with id 2 
+
+
+post /Api/users   create new user
+
+patch/Api/users/1 edit user 1  with id 1 
+
+delete/Api/users/1   delete the user 1 
