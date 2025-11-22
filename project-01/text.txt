@@ -15,4 +15,23 @@ post /Api/users   create new user
 
 patch/Api/users/1 edit user 1  with id 1 
 
-delete/Api/users/1   delete the user 1 
+delete/Api/users/1   delete the user 1 1763536324482:GET:undefined
+ 1763536399523:GET:undefined
+ 1763536404310:GET:undefined
+ 1763536410241:GET:undefined
+ 1763543957858:GET:/api/users/7
+ 1763543964193:GET:/api/users/3
+ 1763543966679:GET:/api/users/2
+ 1763543968087:GET:/api/users/1
+ 1763544039732:GET:/api/users/1:::1
+ 1763544041707:GET:/api/users/3:::1
+ 1763544043078:GET:/api/users/2:::1
+ 1763544044416:GET:/api/users/:::1
+ 1763544045207:GET:/api/users/5:::1
+ 1763544046159:GET:/api/users/56:::1
+ 1763544047604:GET:/api/users/56:::1
+ 1763544878124:GET:/api/users:::1
+ 1763544932642:GET:/api/users/5:::1
+ 1763544991156 : GET : /api/users/5
+ 1763544994112 : GET : /api/users
+ 1763545001112 : GET : /api/users/5

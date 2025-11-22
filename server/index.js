@@ -43,7 +43,9 @@ const express = require("express");
 const app = express();
 
 app.get("/", (req, res) => {
-  return res.send("hello from home page!");
+  return res.send("hello from home page!!!");
+  if (!user) return res.status(404).json({ error: "user not found" });
+  return res.json(user);
 });
 
 app.get("/about", (req, res) => {
