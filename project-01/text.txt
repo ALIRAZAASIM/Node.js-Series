@@ -35,3 +35,7 @@ delete/Api/users/1   delete the user 1 1763536324482:GET:undefined
  1763544991156 : GET : /api/users/5
  1763544994112 : GET : /api/users
  1763545001112 : GET : /api/users/5
+ 1763905770362:GET:/:::1
+ 1763926728300:GET:/api/users:::1
+ 1763926747600:GET:/api/users:::1
+ 1763926754822:GET:/:::1
